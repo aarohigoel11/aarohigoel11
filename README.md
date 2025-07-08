@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🚀 Aarohi Goel</h1>
+<h1 align="center">✨ Aarohi Goel ✨</h1>
 <h3 align="center">👩‍💻 Final Year CSE Student @ JIIT Noida | 💻 Full-Stack Developer | ⚙️ AWS & DSA Enthusiast</h3>
 
 <p align="center">
